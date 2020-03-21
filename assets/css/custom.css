@@ -1,0 +1,53 @@
+html {
+  scroll-behavior: smooth;
+}
+
+h1, h2, h3, h4, h5 {
+  text-transform: none !important;
+}
+
+.header.fixed-top {
+  position: absolute;
+}
+
+.logo h1 {
+  padding-top: 15px;
+  font-size: 1.5em;
+}
+
+.banner .blurb {
+  font-size: 90%;
+}
+
+.section-title.section-main p {
+  margin-bottom: 10px;
+}
+
+.section-title.section-main p.blurb {
+  font-size: 110%;
+  font-weight: 400;
+}
+
+.container .single-service {
+  padding: 25px 20px 40px 20px;
+}
+
+.container .single-service .service-content h3 {
+  text-transform: none;
+}
+
+.container .single-service .service-icon {
+  margin-bottom: 15px;
+}
+
+.container .single-service .service-icon img {
+  width: 60px;
+}
+
+.container .feature-content ul.list-uncheck {
+  font-size: 90%;
+}
+
+.copyright p {
+  font-size: 90%;
+}
