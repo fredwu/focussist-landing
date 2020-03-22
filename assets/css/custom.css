@@ -10,8 +10,20 @@ h1, h2, h3, h4, h5 {
   position: absolute;
 }
 
-.logo h1 {
-  padding-top: 15px;
+header .logo {
+  width: 250px;
+}
+
+header .logo img {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 13px;
+}
+
+header .logo h1 {
+  margin-left: 38px;
+  margin-top: 15px;
   font-size: 1.5em;
 }
 
@@ -46,6 +58,17 @@ h1, h2, h3, h4, h5 {
 
 .container .feature-content ul.list-uncheck {
   font-size: 90%;
+}
+
+footer .logo img {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: -2px;
+}
+
+footer .logo h3 {
+  margin-left: 32px;
 }
 
 .copyright p {
