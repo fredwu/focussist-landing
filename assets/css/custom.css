@@ -60,6 +60,11 @@ header .logo h1 {
   font-size: 90%;
 }
 
+.container p.nospam {
+  font-size: 70%;
+  margin-top: 20px;
+}
+
 footer .logo img {
   position: absolute;
   width: 28px;
